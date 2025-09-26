@@ -32,12 +32,6 @@ ProjetGlobe est un projet de refonte complète de l’intranet de La Plateforme,
 - PMO (pilotage méthodologique)
 - Consultants externes ponctuels
 
-## Documentation associée
-- [Cahier des charges](cahier-des-charges.pdf) : spécifications fonctionnelles et contraintes
-- [Organigramme équipe](organigramme.pdf) : rôles et responsabilités
-- [Schéma base de données](database_scheme.pdf) : modélisation MCD/MLD multi-tenant
-- [Diagramme applicatif](application_diagram.pdf) : architecture technique principale
-- [Compte rendu choix méthode](cr_choix_methode.pdf) : méthodologie projet et gestion des risques
 
 ## Installation et utilisation
 *(À compléter selon vos spécificités techniques et environnement de déploiement)*
